@@ -1,4 +1,6 @@
-# HVL_Robotikk_16
-Project repository for group 16 of ELE306
+# HVL_Robotikk Gruppe 16 - Disinfecting Robot
+Denne githuben fungerer som en mappe for vedleggene til prosjektrapporten vår.
 
-This github simply serves as a folder for our MATLAB files
+Innhold skal være akkurat det samme som står under vedlegg i rapporten. Skulle dette ikke stemme, ta kontakt så skal det fikses snarest mulig.
+
+Det ligger med to videoer som demonstrerer bevegelse av robotarmen i matlab, og kontroll av turtlebot med simulink i gazebo.
